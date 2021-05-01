@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\kathe\source\repos\ais2_2\Source.cpp(13,26): warning C4244:  инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\kathe\source\repos\ais2_2\Source.cpp(41,23): warning C4244:  =: преобразование "double" в "int", возможна потеря данных
+C:\Users\kathe\source\repos\ais2_2\Source.cpp(42,25): warning C4244:  =: преобразование "double" в "int", возможна потеря данных
+C:\Users\kathe\source\repos\ais2_2\Source.cpp(60,22): warning C4018:  >=: несоответствие типов со знаком и без знака
+C:\Users\kathe\source\repos\ais2_2\Source.cpp(99,22): warning C4018:  >=: несоответствие типов со знаком и без знака
+  ais2_2.vcxproj -> C:\Users\kathe\source\repos\ais2_2\Debug\ais2_2.exe

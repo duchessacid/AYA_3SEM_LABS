@@ -1,0 +1,24 @@
+﻿  Source.cpp
+C:\Users\kathe\source\repos\ais2_1\Source.cpp(11,45): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\kathe\source\repos\ais2_1\Source.cpp(11,32): warning C4244: инициализация: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\kathe\source\repos\ais2_1\Source.cpp(69,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\kathe\source\repos\ais2_1\Source.cpp(70,19): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\kathe\source\repos\ais2_1\Source.cpp(73,54): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\kathe\source\repos\ais2_1\Source.cpp(77,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\kathe\source\repos\ais2_1\Source.cpp(89,17): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\kathe\source\repos\ais2_1\Source.cpp(102,18): warning C4244: инициализация: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\kathe\source\repos\ais2_1\Source.cpp(127,13): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+C:\Users\kathe\source\repos\ais2_1\Source.cpp(127,26): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+C:\Users\kathe\source\repos\ais2_1\Source.cpp(137,13): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+C:\Users\kathe\source\repos\ais2_1\Source.cpp(137,26): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+C:\Users\kathe\source\repos\ais2_1\Source.cpp(150,13): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+C:\Users\kathe\source\repos\ais2_1\Source.cpp(150,26): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+C:\Users\kathe\source\repos\ais2_1\Source.cpp(158,17): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+C:\Users\kathe\source\repos\ais2_1\Source.cpp(165,19): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+C:\Users\kathe\source\repos\ais2_1\Source.cpp(175,31): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+  Создание кода
+  7 of 442 functions ( 1.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  ais2_1.vcxproj -> C:\Users\kathe\source\repos\ais2_1\Release\ais2_1.exe

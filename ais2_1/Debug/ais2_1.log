@@ -1,0 +1,22 @@
+﻿  Source.cpp
+C:\Users\kathe\source\repos\ais2_1\Source.cpp(11,45): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\kathe\source\repos\ais2_1\Source.cpp(11,32): warning C4244: инициализация: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\kathe\source\repos\ais2_1\Source.cpp(58,1): warning C4554: ">>": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\kathe\source\repos\ais2_1\Source.cpp(78,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\kathe\source\repos\ais2_1\Source.cpp(79,19): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\kathe\source\repos\ais2_1\Source.cpp(82,15): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\kathe\source\repos\ais2_1\Source.cpp(116,104): warning C4244: аргумент: преобразование "_Ty" в "const unsigned int", возможна потеря данных
+          with
+          [
+              _Ty=__int64
+          ]
+C:\Users\kathe\source\repos\ais2_1\Source.cpp(116,131): warning C4244: =: преобразование "_Ty" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=__int64
+          ]
+          and
+          [
+              _Ty=int
+          ]
+  ais2_1.vcxproj -> C:\Users\kathe\source\repos\ais2_1\Debug\ais2_1.exe
