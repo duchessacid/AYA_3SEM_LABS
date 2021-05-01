@@ -1,0 +1,9 @@
+﻿  queue.cpp
+  Source.cpp
+C:\Users\kathe\source\repos\ais_1_3\queue.h(20,19): warning C4018:  >=: несоответствие типов со знаком и без знака
+C:\Users\kathe\source\repos\ais_1_3\Source.cpp(56,25): warning C4018:  <: несоответствие типов со знаком и без знака
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 263 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  ais_1_3.vcxproj -> C:\Users\kathe\source\repos\ais_1_3\Release\ais_1_3.exe

@@ -1,0 +1,2 @@
+C:\Users\kathe\source\repos\ais_1_4\x64\Debug\ais_1_4.exe
+C:\Users\kathe\source\repos\ais_1_4\x64\Debug\ais_1_4.pdb
